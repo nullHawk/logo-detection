@@ -1,0 +1,7 @@
+path: /home/suru/Projects/logo_detection/data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['pepsi','coke']
